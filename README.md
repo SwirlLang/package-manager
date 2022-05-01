@@ -1,3 +1,3 @@
 # The project has been stopped temporarily.
 ## package-manager
-The package manager of Lambda Code
+The package manager of Swirl
